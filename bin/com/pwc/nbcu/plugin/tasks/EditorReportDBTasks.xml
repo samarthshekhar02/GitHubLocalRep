@@ -1,0 +1,16 @@
+<schema name="newsconnect"> 
+<table name="nbcueditorlog" description="Editor Logging Table">
+		<column name="logID" type="bigint" nullable="false" description="Log identifier"/>
+        <column name="logtimestamp" type="bigint" nullable="false" description="Time Stamp"/>
+        <column name="userID" type="bigint" nullable="false" description="user identifier"/>
+        <column name="userFirstName" type="varchar" nullable="true" size="255" description="User First Name" />
+        <column name="userLastName" type="varchar" nullable="true" size="255" description="User Last Name" />
+        <column name="adminID" type="bigint" nullable="true" description="admin identifier"/>
+        <column name="adminFirstName" type="varchar" nullable="true" size="255" description="Admin First Name" />
+        <column name="adminLastName" type="varchar" nullable="true" size="255" description="Admin Last Name" />
+        <column name="description" type="varchar" nullable="true" size="2048" description="description of change"/>
+        <column name="action" type="varchar" nullable="true" size="255" description="action taken"></column>
+
+        <index type="primary" name="logID_idx" column="logID" />
+ </table>
+ </schema>

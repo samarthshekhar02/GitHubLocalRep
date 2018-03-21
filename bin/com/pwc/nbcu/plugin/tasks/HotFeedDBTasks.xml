@@ -1,0 +1,11 @@
+<schema name="hotfeed">
+
+<!--  this to be used for future upgrades of plugin values. -->
+<sql description="Update default data for environments."><![CDATA[
+ALTER TABLE hotfeedentry ADD COLUMN posttitle CHARACTER VARYING(255);
+ALTER TABLE hotfeedentry ADD COLUMN posttitlelink CHARACTER VARYING(255);
+ALTER TABLE hotfeedentry ADD COLUMN postcontentid BIGINT;
+ALTER TABLE hotfeedentry ADD COLUMN updatestory INTEGER DEFAULT 0;
+]]>
+    </sql>
+</schema>

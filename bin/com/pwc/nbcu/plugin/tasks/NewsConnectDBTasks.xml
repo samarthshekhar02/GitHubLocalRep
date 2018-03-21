@@ -1,0 +1,8 @@
+<schema name="newsconnect">
+
+<!--  this to be used for future upgrades of plugin values. -->
+<sql description="Update default data for environments."><![CDATA[
+INSERT INTO jivenbcubrands( id, brandname) VALUES (97  ,'Buzzworthy');
+]]>
+    </sql> 
+</schema>

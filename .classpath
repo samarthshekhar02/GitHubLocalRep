@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="NewsConnect/checker-plugin/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect/checker-plugin/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect/create-content-via-email/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect/create-content-via-email/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect/daily-digest-fix/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect/daily-digest-fix/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect/email-content-plugin/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect/email-content-plugin/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect/events-type-plugin/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect/events-type-plugin/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect/googledoc/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect/googledoc/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect/hotfeed/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect/hotfeed/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect/newsconnect-plugin/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect/newsconnect-plugin/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect/rsssubscription/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect/rsssubscription/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect/threecolumnlayout/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect/threecolumnlayout/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect/twitterIntegration/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect/twitterIntegration/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect/TwitterNewsConnectAdapter/src"/>
+	<classpathentry kind="src" path="NewsConnect/web/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect/web/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect9/event-type-plugin/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect9/event-type-plugin/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect9/googledoc/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect9/googledoc/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect9/hotfeed/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect9/hotfeed/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect9/newsconnect-plugin/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect9/newsconnect-plugin/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect9/rsssubscription/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect9/rsssubscription/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect9/threecolumnlayout/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect9/threecolumnlayout/src/test/java"/>
+	<classpathentry kind="src" path="NewsConnect9/web/src/main/java"/>
+	<classpathentry kind="src" path="NewsConnect9/web/src/test/java"/>
+	<classpathentry kind="src" path="prodreq/AutomatedDataMigration/src"/>
+	<classpathentry kind="src" path="prodreq/DataMigration/src"/>
+	<classpathentry kind="src" path="prodreq/src/main/java"/>
+	<classpathentry kind="src" path="prodreq/src/test/java"/>
+	<classpathentry kind="lib" path="NewsConnect/builds/hotfix_hotemail/newsconnect.jar"/>
+	<classpathentry kind="lib" path="NewsConnect/builds/Production 04-01-2016/email-content-plugin-7.0.3.1-0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="NewsConnect/builds/Production 04-01-2016/hotfeed.jar"/>
+	<classpathentry kind="lib" path="NewsConnect/builds/Production 04-01-2016/newsconnect-plugin-7.0.3.1-0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="NewsConnect/builds/sprint103_release/events-type-plugin-7.0.3.1-0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="NewsConnect/builds/sprint103_release/googledoc.jar"/>
+	<classpathentry kind="lib" path="NewsConnect/builds/sprint103_release/hotfeed.jar"/>
+	<classpathentry kind="lib" path="NewsConnect/builds/sprint103_release/newsconnect.jar"/>
+	<classpathentry kind="lib" path="NewsConnect/builds/sprint104_release/events-type-plugin-7.0.3.1-0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="NewsConnect/builds/sprint104_release/For Jive Hosted/email-content-plugin-7.0.3.1-0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="NewsConnect/builds/sprint104_release/googledoc-7.0.3.1-0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="NewsConnect/builds/sprint104_release/hotfeed.jar"/>
+	<classpathentry kind="lib" path="NewsConnect/builds/sprint104_release/newsconnect-plugin-7.0.3.1-0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="prodreq/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
